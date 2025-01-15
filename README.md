@@ -1,6 +1,7 @@
 <h1>Titanic Data Analysis & Visualization</h1>
+<pre>
 <p>DATA ANALYSIS AND VISUALIZATION BY <h1>SEABORN</h1></p>
-
+</pre>
 <h2>Overview</h2>
 <p>
   This project analyzes the Titanic dataset to visualize the survival rate by different features 
