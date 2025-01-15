@@ -1,6 +1,6 @@
 <h1>Titanic Data Analysis & Visualization</h1>
 <pre>
-<p>DATA ANALYSIS AND VISUALIZATION BY <h1>SEABORN</h1></p>
+<p>Data Analysis & Visualization with <h1>SEABORN</h1></p>
 </pre>
 <h2>Overview</h2>
 <p>
